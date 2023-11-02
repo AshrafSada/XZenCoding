@@ -3,7 +3,10 @@
     <Metadata>
         <Identity Id="XZenCoding.525e4b77-485a-40b8-a2ff-ce158e54475a" Version="1.0" Language="en-US" Publisher="Ashraf Sada" />
         <DisplayName>XZenCoding</DisplayName>
-        <Description xml:space="preserve">Empty VSIX Project.</Description>
+        <Description xml:space="preserve">XZenCoding updated for use with Visual Studio 2022, in addition to blazor templates like MudBlazor UIXZenCoding</Description>
+        <License>LICENSE.txt</License>
+        <Icon>z_icon.png</Icon>
+        <Tags>New zencoding, zencoding, zencoding VS 2022</Tags>
         <Preview>true</Preview>
     </Metadata>
     <Installation>
